@@ -16,7 +16,7 @@
 
 [李小姐.pdf](李小姐.pdf) 
 
-
+<embed src="./李小姐.pdf" type="application/pdf" />
 
 
 [回首頁](../../README.md)
